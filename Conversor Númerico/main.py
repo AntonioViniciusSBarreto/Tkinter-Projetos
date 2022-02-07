@@ -45,5 +45,5 @@ linha = 0
 for objeto in lista_objetos:
      janela.rowconfigure(linha, weight= 1)
      linha += 1
-     print(linha)
+    
 janela.mainloop()
